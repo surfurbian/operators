@@ -1,0 +1,4 @@
+
+let first = 12
+let second = 3
+console.log (first, second)
